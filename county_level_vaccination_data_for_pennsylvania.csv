@@ -1,6 +1,4 @@
-﻿County Level Vaccination Data for Pennsylvania
-Date generated: Sat Jun 12 2021 12:59:26 GMT-0400 (Eastern Daylight Time)
-County,People Fully Vaccinated - Resident,Percent of Total Pop Fully Vaccinated - Resident,People 12+ Fully Vaccinated - Resident,Percent of 12+ Pop Fully Vaccinated - Resident,People 18+ Fully Vaccinated - Resident,Percent of 18+ Pop Fully Vaccinated - Resident,People 65+ Fully Vaccinated - Resident,Percent of 65+ Pop Fully Vaccinated - Resident
+County,People Fully Vaccinated,Percent of Total Pop Fully Vaccinated,People 12+ Fully Vaccinated,Percent of 12+ Pop Fully Vaccinated,People 18+ Fully Vaccinated,Percent of 18+ Pop Fully Vaccinated,Unknown,People 65+ Fully Vaccinated,Percent of 65+ Pop Fully Vaccinated
 Adams County,38265,37.1,38262,42.5,37705,42.5,45.6,15819,72.8
 Allegheny County,587418,48.3,587376,55.1,575072,55.1,58.1,164779,70
 Armstrong County,28002,43.3,28002,49.4,27627,49.4,52.8,12005,82.1
