@@ -1,6 +1,4 @@
-﻿County Level Vaccination Data for Alabama
-Date generated: Sat Jun 12 2021 14:06:26 GMT-0400 (Eastern Daylight Time)
-County,People Fully Vaccinated - Resident,Percent of Total Pop Fully Vaccinated - Resident,People 12+ Fully Vaccinated - Resident,Percent of 12+ Pop Fully Vaccinated - Resident,People 18+ Fully Vaccinated - Resident,Percent of 18+ Pop Fully Vaccinated - Resident,People 65+ Fully Vaccinated - Resident,Percent of 65+ Pop Fully Vaccinated - Resident
+County,People Fully Vaccinated,Percent of Total Pop Fully Vaccinated,People 12+ Fully Vaccinated,Percent of 12+ Pop Fully Vaccinated,People 18+ Fully Vaccinated,Percent of 18+ Pop Fully Vaccinated,unknown,People 65+ Fully Vaccinated,Percent of 65+ Pop Fully Vaccinated
 Autauga County,12466,22.3,12466,26.2,12365,26.2,28.8,4665,52.3
 Baldwin County,59382,26.6,59381,30.8,59019,30.8,33.6,29143,62.2
 Barbour County,5047,20.4,5047,23.6,5032,23.6,25.7,2675,55
@@ -64,7 +62,6 @@ Sumter County,3659,29.4,3659,33.7,3647,33.7,36.2,1494,64.3
 Talladega County,16804,21,16804,24.3,16747,24.3,26.5,7609,51.5
 Tallapoosa County,9826,24.3,9826,28.2,9797,28.2,30.5,4926,54.8
 Tuscaloosa County,54840,26.2,54840,30.5,54261,30.5,32.8,18260,63.4
-Unknown,119165,N/A,119160,N/A,118376,N/A,N/A,33595,N/A
 Walker County,17683,27.8,17683,32.6,17631,32.6,35.7,8222,66.3
 Washington County,3929,24.1,3928,27.9,3920,27.9,30.8,1902,59.1
 Wilcox County,3145,30.3,3145,35.6,3130,35.6,39.4,1329,63.1
