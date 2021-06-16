@@ -1,6 +1,4 @@
-﻿County Level Vaccination Data for California
-Date generated: Sat Jun 12 2021 14:16:01 GMT-0400 (Eastern Daylight Time)
-County,People Fully Vaccinated - Resident,Percent of Total Pop Fully Vaccinated - Resident,People 12+ Fully Vaccinated - Resident,Percent of 12+ Pop Fully Vaccinated - Resident,People 18+ Fully Vaccinated - Resident,Percent of 18+ Pop Fully Vaccinated - Resident,People 65+ Fully Vaccinated - Resident,Percent of 65+ Pop Fully Vaccinated - Resident
+County,People Fully Vaccinated,Percent of Total Pop Fully Vaccinated,People 12+ Fully Vaccinated,Percent of 12+ Pop Fully Vaccinated,People 18+ Fully Vaccinated,Percent of 18+ Pop Fully Vaccinated,unknown,People 65+ Fully Vaccinated,Percent of 65+ Pop Fully Vaccinated
 Alameda County,945809,56.6,944834,65.5,910808,65.5,68.4,193931,81.2
 Alpine County,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 Amador County,13752,34.6,13750,38.4,13638,38.4,40.4,6701,61.2
@@ -56,7 +54,6 @@ Tehama County,16223,24.9,16223,29.5,16004,29.5,32.3,6541,51.2
 Trinity County,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
 Tulare County,143061,30.7,142996,38.4,139021,38.4,42.9,36342,66.9
 Tuolumne County,21602,39.7,21598,44.5,21417,44.5,47.3,10742,73
-Unknown,532956,N/A,532762,N/A,525515,N/A,N/A,121665,N/A
 Ventura County,406915,48.1,406708,56.3,393295,56.3,60,105999,77.5
 Yolo County,101909,46.2,101738,53.4,97025,53.4,55.5,22101,77.5
 Yuba County,21269,27,21255,33.3,20870,33.3,36.6,6326,61.6
