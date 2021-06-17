@@ -1,5 +1,3 @@
-ACSDP5Y2019.DP03_data_with_overlays_2021-06-17T113043
-GEO_ID,NAME,DP03_0063E
 id,County,Mean household income (dollars)
 0500000US13001,Appling County ,54634
 0500000US13003,Atkinson County ,54979
@@ -26,7 +24,6 @@ id,County,Mean household income (dollars)
 0500000US13047,Catoosa County ,70444
 0500000US13049,Charlton County ,52464
 0500000US13051,Chatham County ,80665
-0500000US13053,Chattahoochee County ,64522
 0500000US13055,Chattooga County ,48964
 0500000US13057,Cherokee County ,100628
 0500000US13059,Clarke County ,59404
@@ -160,4 +157,3 @@ id,County,Mean household income (dollars)
 0500000US13317,Wilkes County ,58715
 0500000US13319,Wilkinson County ,53601
 0500000US13321,Worth County ,61666
-0400000US13,Georgia,82406
