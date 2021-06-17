@@ -1,5 +1,3 @@
-ACSDP5Y2019.DP05_data_with_overlays_2021-06-17T112830
-GEO_ID,NAME,DP05_0038E,DP05_0038PE
 id,County,Estimate Black or African American,Percent Black or African American
 0500000US13001,Appling County ,3561,19.3
 0500000US13003,Atkinson County ,1444,17.5
@@ -26,7 +24,6 @@ id,County,Estimate Black or African American,Percent Black or African American
 0500000US13047,Catoosa County ,1497,2.2
 0500000US13049,Charlton County ,3419,26.2
 0500000US13051,Chatham County ,115023,39.9
-0500000US13053,Chattahoochee County ,2270,21.5
 0500000US13055,Chattooga County ,2593,10.5
 0500000US13057,Cherokee County ,17274,7.0
 0500000US13059,Clarke County ,35215,27.9
@@ -160,4 +157,3 @@ id,County,Estimate Black or African American,Percent Black or African American
 0500000US13317,Wilkes County ,4193,42.6
 0500000US13319,Wilkinson County ,3509,38.9
 0500000US13321,Worth County ,5741,28.0
-0400000US13,Georgia,3289020,31.6
