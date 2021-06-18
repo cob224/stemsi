@@ -1,6 +1,4 @@
-﻿County Level Vaccination Data for New Jersey
-Date generated: Fri Jun 18 2021 10:25:26 GMT-0400 (Eastern Daylight Time)
-County,People Fully Vaccinated - Resident,Percent of Total Pop Fully Vaccinated - Resident,People 12+ Fully Vaccinated - Resident,Percent of 12+ Pop Fully Vaccinated - Resident,People 18+ Fully Vaccinated - Resident,Percent of 18+ Pop Fully Vaccinated - Resident,People 65+ Fully Vaccinated - Resident,Percent of 65+ Pop Fully Vaccinated - Resident
+County,People Fully Vaccinated,Percent of Total Pop Fully Vaccinated,People 12+ Fully Vaccinated,Percent of 12+ Pop Fully Vaccinated,People 18+ Fully Vaccinated,Percent of 18+ Pop Fully Vaccinated,unknown,People 65+ Fully Vaccinated,Percent of 65+ Pop Fully Vaccinated
 Atlantic County,125394,47.6,125389,55.1,122328,55.1,58.8,36949,75.4
 Bergen County,523934,56.2,523926,64.9,500761,64.9,68,130720,79.4
 Burlington County,249166,55.9,249163,64.4,239941,64.4,67.9,64989,84
@@ -21,5 +19,4 @@ Salem County,25313,40.6,25313,47.2,24635,47.2,50.2,8106,68.3
 Somerset County,181368,55.1,181364,63.5,173582,63.5,67.2,40968,77
 Sussex County,69563,49.5,69563,56.2,67636,56.2,59.7,19146,75.9
 Union County,254441,45.7,254436,54.1,242972,54.1,57,53935,65.8
-Unknown,342700,N/A,342685,N/A,317136,N/A,N/A,101933,N/A
 Warren County,56614,53.8,56614,61,54780,61,64.5,17308,87.8
