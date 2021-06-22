@@ -1,6 +1,4 @@
-﻿County Level Vaccination Data for New Hampshire
-Date generated: Tue Jun 22 2021 12:56:59 GMT-0400 (Eastern Daylight Time)
-County,People Fully Vaccinated - Resident,Percent of Total Pop Fully Vaccinated - Resident,People 12+ Fully Vaccinated - Resident,Percent of 12+ Pop Fully Vaccinated - Resident,People 18+ Fully Vaccinated - Resident,Percent of 18+ Pop Fully Vaccinated - Resident,People 65+ Fully Vaccinated - Resident,Percent of 65+ Pop Fully Vaccinated - Resident
+County,People Fully Vaccinated,Percent of Total Pop Fully Vaccinated,People 12+ Fully Vaccinated,Percent of 12+ Pop Fully Vaccinated,People 18+ Fully Vaccinated,Percent of 18+ Pop Fully Vaccinated,unknown,People 65+ Fully Vaccinated,Percent of 65+ Pop Fully Vaccinated
 Belknap County,30938,50.5,30933,57,29930,57,59.7,11245,80.5
 Carroll County,27744,56.7,27740,62.7,26760,62.7,64.6,11027,77.8
 Cheshire County,39127,51.4,39119,58.1,37562,58.1,60,13145,83.5
@@ -11,4 +9,3 @@ Merrimack County,85550,56.5,85524,64.1,82013,64.1,66.8,26999,95.5
 Rockingham County,163129,52.7,163086,59.7,155691,59.7,62.1,46401,80.7
 Strafford County,64497,49.4,64483,55.9,61208,55.9,57.3,16785,83.2
 Sullivan County,22343,51.8,22325,58.6,21640,58.6,61.6,7851,82.4
-Unknown,38503,N/A,38484,N/A,37763,N/A,N/A,7144,N/A
