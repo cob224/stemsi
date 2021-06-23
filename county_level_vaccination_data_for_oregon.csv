@@ -1,6 +1,4 @@
-﻿County Level Vaccination Data for Oregon
-Date generated: Wed Jun 23 2021 11:34:39 GMT-0400 (Eastern Daylight Time)
-County,People Fully Vaccinated - Resident,Percent of Total Pop Fully Vaccinated - Resident,People 12+ Fully Vaccinated - Resident,Percent of 12+ Pop Fully Vaccinated - Resident,People 18+ Fully Vaccinated - Resident,Percent of 18+ Pop Fully Vaccinated - Resident,People 65+ Fully Vaccinated - Resident,Percent of 65+ Pop Fully Vaccinated - Resident
+County,People Fully Vaccinated,Percent of Total Pop Fully Vaccinated,People 12+ Fully Vaccinated,Percent of 12+ Pop Fully Vaccinated,People 18+ Fully Vaccinated,Percent of 18+ Pop Fully Vaccinated,unknown,People 65+ Fully Vaccinated,Percent of 65+ Pop Fully Vaccinated
 Baker County,9366,58.1,9361,67,9245,67,71.5,4790,99.9
 Benton County,56677,60.9,56525,67.6,53819,67.6,69,13761,88
 Clackamas County,213983,51.2,213496,59.1,201826,59.1,61.3,60294,76.8
@@ -32,7 +30,6 @@ Sherman County,751,42.2,750,48.2,736,48.2,51,311,68.7
 Tillamook County,13434,49.7,13424,56.6,13118,56.6,59.8,5795,81.2
 Umatilla County,28309,36.3,28279,43.4,27187,43.4,46.6,8870,70.9
 Union County,9176,34.2,9170,39.9,8984,39.9,42.8,3823,66.3
-Unknown,48861,N/A,48843,N/A,48355,N/A,N/A,13610,N/A
 Wallowa County,3305,45.9,3301,52.3,3228,52.3,55.1,1617,75.5
 Wasco County,12840,48.1,12825,56.5,12381,56.5,59.6,4558,81.4
 Washington County,336816,56,335929,65.5,316683,65.5,67.9,68005,81.6
