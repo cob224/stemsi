@@ -1,6 +1,4 @@
-﻿County Level Vaccination Data for Washington
-Date generated: Wed Jun 23 2021 14:45:17 GMT-0400 (Eastern Daylight Time)
-County,People Fully Vaccinated - Resident,Percent of Total Pop Fully Vaccinated - Resident,People 12+ Fully Vaccinated - Resident,Percent of 12+ Pop Fully Vaccinated - Resident,People 18+ Fully Vaccinated - Resident,Percent of 18+ Pop Fully Vaccinated - Resident,People 65+ Fully Vaccinated - Resident,Percent of 65+ Pop Fully Vaccinated - Resident
+County,People Fully Vaccinated,Percent of Total Pop Fully Vaccinated,People 12+ Fully Vaccinated,Percent of 12+ Pop Fully Vaccinated,People 18+ Fully Vaccinated,Percent of 18+ Pop Fully Vaccinated,unknown,People 65+ Fully Vaccinated,Percent of 65+ Pop Fully Vaccinated
 Adams County,6985,35,6985,46.3,6868,46.3,53.6,1811,80
 Asotin County,6682,29.6,6682,34,6571,34,36.4,3511,64.9
 Benton County,80974,39.6,80970,48.1,77465,48.1,51.6,24443,77.7
@@ -35,7 +33,6 @@ Snohomish County,431397,52.5,431383,61.8,410453,61.8,64.3,95871,83.5
 Spokane County,227732,43.6,227727,51,219421,51,53.8,70487,81.4
 Stevens County,12745,27.9,12745,32.2,12462,32.2,34.6,5791,53.1
 Thurston County,139177,47.9,139176,55.8,132517,55.8,57.9,41793,80.6
-Unknown,157652,N/A,157614,N/A,154654,N/A,N/A,36101,N/A
 Wahkiakum County,1801,40.1,1801,44.7,1765,44.7,47.4,937,63.3
 Walla Walla County,28890,47.5,28889,54.9,27500,54.9,57.1,8883,78.2
 Whatcom County,134707,58.8,134706,67.4,129348,67.4,69.8,36541,88.7
