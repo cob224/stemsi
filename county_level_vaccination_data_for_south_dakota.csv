@@ -1,6 +1,4 @@
-﻿County Level Vaccination Data for South Dakota
-Date generated: Thu Jun 24 2021 14:35:32 GMT-0400 (Eastern Daylight Time)
-County,People Fully Vaccinated - Resident,Percent of Total Pop Fully Vaccinated - Resident,People 12+ Fully Vaccinated - Resident,Percent of 12+ Pop Fully Vaccinated - Resident,People 18+ Fully Vaccinated - Resident,Percent of 18+ Pop Fully Vaccinated - Resident,People 65+ Fully Vaccinated - Resident,Percent of 65+ Pop Fully Vaccinated - Resident
+County,People Fully Vaccinated,Percent of Total Pop Fully Vaccinated,People 12+ Fully Vaccinated,Percent of 12+ Pop Fully Vaccinated,People 18+ Fully Vaccinated,Percent of 18+ Pop Fully Vaccinated,unknown,People 65+ Fully Vaccinated,Percent of 65+ Pop Fully Vaccinated
 Aurora County,953,34.6,953,41.1,943,41.1,45.6,372,65.4
 Beadle County,5761,31.2,5761,38.4,5688,38.4,42.3,1892,57.7
 Bennett County,1035,30.8,1035,39.9,998,39.9,44.8,325,72.7
@@ -64,7 +62,6 @@ Todd County,3179,31.2,3178,43.8,2988,43.8,50.3,555,72.7
 Tripp County,1409,25.9,1409,30.8,1401,30.8,33.7,589,47.6
 Turner County,2524,30.1,2524,35.8,2467,35.8,38.9,936,52.2
 Union County,6057,38,6057,45.2,5918,45.2,49.1,1964,66.3
-Unknown,68082,N/A,68077,N/A,67926,N/A,N/A,31269,N/A
 Walworth County,1436,26.4,1436,31.3,1432,31.3,34.3,658,49.8
 Yankton County,11134,48.8,11134,56.6,10843,56.6,60.2,3806,85.6
 Ziebach County,500,18.1,500,21.4,470,21.4,23.5,117,44.3
