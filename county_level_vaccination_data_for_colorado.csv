@@ -1,6 +1,4 @@
-﻿County Level Vaccination Data for Colorado
-Date generated: Fri Jun 25 2021 15:15:56 GMT-0400 (Eastern Daylight Time)
-County,People Fully Vaccinated - Resident,Percent of Total Pop Fully Vaccinated - Resident,People 12+ Fully Vaccinated - Resident,Percent of 12+ Pop Fully Vaccinated - Resident,People 18+ Fully Vaccinated - Resident,Percent of 18+ Pop Fully Vaccinated - Resident,People 65+ Fully Vaccinated - Resident,Percent of 65+ Pop Fully Vaccinated - Resident
+County,People Fully Vaccinated,Percent of Total Pop Fully Vaccinated,People 12+ Fully Vaccinated,Percent of 12+ Pop Fully Vaccinated,People 18+ Fully Vaccinated,Percent of 18+ Pop Fully Vaccinated,unknown,People 65+ Fully Vaccinated,Percent of 65+ Pop Fully Vaccinated
 Adams County,176885,34.2,176423,41.2,164776,41.2,43.1,23792,42.8
 Alamosa County,4581,28.2,4566,33.7,4280,33.7,34.8,859,38.1
 Arapahoe County,238168,36.3,237349,42.6,220474,42.6,43.8,37787,42.7
@@ -62,7 +60,6 @@ San Miguel County,4331,53,4322,59.3,4069,59.3,60.1,453,35.8
 Sedgwick County,467,20.8,466,23.6,464,23.6,25.7,140,23
 Summit County,16490,53.2,16434,59.5,15605,59.5,60.1,1593,35.9
 Teller County,6379,25.1,6367,28,6123,28,29,2121,36
-Unknown,723442,N/A,723409,N/A,718253,N/A,N/A,296728,N/A
 Washington County,749,15.3,748,17.9,742,17.9,19.5,263,25.1
 Weld County,101017,31.1,100799,37.6,95218,37.6,39.6,18692,46.3
 Yuma County,1833,18.3,1830,22.5,1805,22.5,24.8,375,20
