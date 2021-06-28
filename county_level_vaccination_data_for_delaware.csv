@@ -1,0 +1,7 @@
+﻿County Level Vaccination Data for Delaware
+Date generated: Mon Jun 28 2021 15:02:15 GMT-0400 (Eastern Daylight Time)
+County,People with at least 1 Dose - Resident,People Fully Vaccinated - Resident,Percent of Total Pop with at least 1 Dose - Resident,Percent of Total Pop Fully Vaccinated - Resident,People 12+ Fully Vaccinated - Resident,People 12+ with at least 1 Dose - Resident,Percent of 12+ Pop with at least 1 Dose - Resident,Percent of 12+ Pop Fully Vaccinated - Resident,People 18+ with at least 1 Dose - Resident,Percent of 18+ Pop with at least 1 Dose - Resident,People 18+ Fully Vaccinated - Resident,Percent of 18+ Pop Fully Vaccinated - Resident,People 65+ with at least 1 Dose - Resident,People 65+ Fully Vaccinated - Resident,Percent 65+ Pop at least 1 Dose - Resident,Percent of 65+ Pop Fully Vaccinated - Resident
+Kent County,79224,68456,43.8,37.9,68454,79211,51.6,44.6,75330,54,65561,47,25208,22541,79.7,71.3
+New Castle County,326763,274524,58.5,49.1,274506,326655,68,57.1,307984,70.1,260589,59.3,82140,72312,91.3,80.4
+Sussex County,136447,117764,58.3,50.3,117759,136427,66.3,57.2,132595,69.3,115071,60.2,62741,55957,93.2,83.1
+Unknown,21047,18604,N/A,N/A,18599,21034,N/A,N/A,20634,N/A,18320,N/A,5723,5038,N/A,N/A
