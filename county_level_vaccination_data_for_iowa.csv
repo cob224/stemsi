@@ -1,6 +1,4 @@
-﻿County Level Vaccination Data for Iowa
-Date generated: Tue Jun 29 2021 14:15:34 GMT-0400 (Eastern Daylight Time)
-County,People with at least 1 Dose - Resident,People Fully Vaccinated - Resident,Percent of Total Pop with at least 1 Dose - Resident,Percent of Total Pop Fully Vaccinated - Resident,People 12+ Fully Vaccinated - Resident,People 12+ with at least 1 Dose - Resident,Percent of 12+ Pop with at least 1 Dose - Resident,Percent of 12+ Pop Fully Vaccinated - Resident,People 18+ with at least 1 Dose - Resident,Percent of 18+ Pop with at least 1 Dose - Resident,People 18+ Fully Vaccinated - Resident,Percent of 18+ Pop Fully Vaccinated - Resident,People 65+ with at least 1 Dose - Resident,People 65+ Fully Vaccinated - Resident,Percent 65+ Pop at least 1 Dose - Resident,Percent of 65+ Pop Fully Vaccinated - Resident
+County,People with at least 1 Dose,People Fully Vaccinated,Percent of Total Pop with at least 1 Dose,Percent of Total Pop Fully Vaccinated,People 12+ Fully Vaccinated,People 12+ with at least 1 Dose,Percent of 12+ Pop with at least 1 Dose,Percent of 12+ Pop Fully Vaccinated,People 18+ with at least 1 Dose,Percent of 18+ Pop with at least 1 Dose,People 18+ Fully Vaccinated,Percent of 18+ Pop Fully Vaccinated,People 65+ with at least 1 Dose,People 65+ Fully Vaccinated,Percent 65+ Pop at least 1 Dose,Percent of 65+ Pop Fully Vaccinated
 Adair County,3047,2844,42.6,39.8,2844,3047,49.8,46.5,2925,52.3,2741,49,1257,1178,76.3,71.5
 Adams County,1625,1541,45.1,42.8,1541,1625,52.3,49.6,1595,56,1515,53.2,663,645,77.8,75.7
 Allamakee County,6098,5726,44.6,41.8,5726,6098,52.9,49.7,5984,57.1,5656,54,2585,2472,80.5,77
@@ -89,7 +87,6 @@ Story County,52651,48879,54.2,50.3,48878,52650,60.9,56.5,49911,61.5,46499,57.3,1
 Tama County,8716,8182,51.7,48.5,8182,8716,61.3,57.5,8332,65,7889,61.6,2971,2900,88.5,86.4
 Taylor County,2427,2318,39.7,37.9,2318,2427,47.1,45,2398,51.2,2291,48.9,1131,1109,81.2,79.7
 Union County,5261,4922,43,40.2,4922,5261,49.9,46.7,5128,53.9,4839,50.9,2114,2047,82.2,79.6
-Unknown,40672,38382,N/A,N/A,38373,N/A,N/A,N/A,N/A,N/A,37485,N/A,N/A,9865,N/A,N/A
 Van Buren County,2403,2281,34.1,32.4,2281,2403,40.2,38.1,2380,43.7,2262,41.5,1213,1163,76.5,73.3
 Wapello County,13937,13119,39.9,37.5,13119,13937,47,44.2,13539,50.1,12844,47.5,4906,4795,76.4,74.7
 Warren County,25496,23704,49.5,46.1,23704,25496,58.9,54.8,24114,62.2,22622,58.3,7476,7176,90.7,87.1
