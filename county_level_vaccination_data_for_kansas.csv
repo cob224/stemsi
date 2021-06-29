@@ -1,6 +1,4 @@
-﻿County Level Vaccination Data for Kansas
-Date generated: Tue Jun 29 2021 15:24:53 GMT-0400 (Eastern Daylight Time)
-County,People with at least 1 Dose - Resident,People Fully Vaccinated - Resident,Percent of Total Pop with at least 1 Dose - Resident,Percent of Total Pop Fully Vaccinated - Resident,People 12+ Fully Vaccinated - Resident,People 12+ with at least 1 Dose - Resident,Percent of 12+ Pop with at least 1 Dose - Resident,Percent of 12+ Pop Fully Vaccinated - Resident,People 18+ with at least 1 Dose - Resident,Percent of 18+ Pop with at least 1 Dose - Resident,People 18+ Fully Vaccinated - Resident,Percent of 18+ Pop Fully Vaccinated - Resident,People 65+ with at least 1 Dose - Resident,People 65+ Fully Vaccinated - Resident,Percent 65+ Pop at least 1 Dose - Resident,Percent of 65+ Pop Fully Vaccinated - Resident
+County,People with at least 1 Dose,People Fully Vaccinated,Percent of Total Pop with at least 1 Dose,Percent of Total Pop Fully Vaccinated,People 12+ Fully Vaccinated,People 12+ with at least 1 Dose,Percent of 12+ Pop with at least 1 Dose,Percent of 12+ Pop Fully Vaccinated,People 18+ with at least 1 Dose,Percent of 18+ Pop with at least 1 Dose,People 18+ Fully Vaccinated,Percent of 18+ Pop Fully Vaccinated,People 65+ with at least 1 Dose,People 65+ Fully Vaccinated,Percent 65+ Pop at least 1 Dose,Percent of 65+ Pop Fully Vaccinated
 Allen County,4344,3923,35.1,31.7,3923,4344,40.8,36.9,4247,44.1,3864,40.1,1800,1687,69.4,65
 Anderson County,2639,2370,33.6,30.2,2370,2639,40.3,36.2,2583,44.2,2356,40.4,1139,1077,67.5,63.8
 Atchison County,5380,4841,33.5,30.1,4841,5380,39.1,35.2,5279,42.5,4789,38.6,2148,2053,75.9,72.6
@@ -99,7 +97,6 @@ Stevens County,1366,1173,24.9,21.4,1173,1366,30.3,26,1349,34.2,1168,29.6,503,447
 Sumner County,7528,6880,33,30.1,6880,7528,39.1,35.7,7377,42.7,6779,39.2,2897,2764,66.1,63.1
 Thomas County,2599,2399,33.4,30.8,2399,2599,40,36.9,2553,42.9,2367,39.8,974,933,69.3,66.4
 Trego County,867,821,30.9,29.3,821,867,35,33.1,861,37.3,819,35.5,368,357,48.2,46.7
-Unknown,109198,82425,N/A,N/A,82420,109162,N/A,N/A,106907,N/A,80845,N/A,31875,23314,N/A,N/A
 Wabaunsee County,2567,2378,37,34.3,2378,2567,43.5,40.3,2522,47.2,2347,44,1063,1035,73.3,71.4
 Wallace County,449,420,29.6,27.7,420,449,35.5,33.2,442,38.6,418,36.5,217,215,59,58.4
 Washington County,2233,2064,41.3,38.2,2064,2233,48.7,45,2192,52.4,2044,48.9,1016,976,78.5,75.4
