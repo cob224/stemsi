@@ -1,6 +1,4 @@
-﻿County Level Vaccination Data for Indiana
-Date generated: Tue Jun 29 2021 13:25:32 GMT-0400 (Eastern Daylight Time)
-County,People with at least 1 Dose - Resident,People Fully Vaccinated - Resident,Percent of Total Pop with at least 1 Dose - Resident,Percent of Total Pop Fully Vaccinated - Resident,People 12+ Fully Vaccinated - Resident,People 12+ with at least 1 Dose - Resident,Percent of 12+ Pop with at least 1 Dose - Resident,Percent of 12+ Pop Fully Vaccinated - Resident,People 18+ with at least 1 Dose - Resident,Percent of 18+ Pop with at least 1 Dose - Resident,People 18+ Fully Vaccinated - Resident,Percent of 18+ Pop Fully Vaccinated - Resident,People 65+ with at least 1 Dose - Resident,People 65+ Fully Vaccinated - Resident,Percent 65+ Pop at least 1 Dose - Resident,Percent of 65+ Pop Fully Vaccinated - Resident
+County,People with at least 1 Dose,People Fully Vaccinated,Percent of Total Pop with at least 1 Dose,Percent of Total Pop Fully Vaccinated,People 12+ Fully Vaccinated,People 12+ with at least 1 Dose,Percent of 12+ Pop with at least 1 Dose,Percent of 12+ Pop Fully Vaccinated,People 18+ with at least 1 Dose,Percent of 18+ Pop with at least 1 Dose,People 18+ Fully Vaccinated,Percent of 18+ Pop Fully Vaccinated,People 65+ with at least 1 Dose,People 65+ Fully Vaccinated,Percent 65+ Pop at least 1 Dose,Percent of 65+ Pop Fully Vaccinated
 Adams County,9979,9163,27.9,25.6,9161,9977,35.5,32.6,9764,39.8,9014,36.7,4161,3993,73.2,70.3
 Allen County,162144,144469,42.7,38.1,144466,162136,51.5,45.9,154899,54.9,139361,49.4,47366,45563,83.7,80.5
 Bartholomew County,40376,36554,48.2,43.6,36553,40374,57.2,51.8,38381,60.1,35018,54.8,11380,11018,82.2,79.5
@@ -82,7 +80,6 @@ Switzerland County,2632,2393,24.5,22.3,2393,2632,29.2,26.5,2598,32.1,2371,29.3,1
 Tippecanoe County,94315,83053,48.2,42.4,83051,94314,55.9,49.2,90464,58.2,80209,51.6,19126,18470,82.2,79.3
 Tipton County,5607,5103,37,33.7,5103,5606,42.5,38.7,5460,45.3,5004,41.5,2252,2164,69.5,66.8
 Union County,2581,2398,36.6,34,2398,2581,42.1,39.1,2510,44.9,2344,41.9,1105,1067,79.5,76.8
-Unknown,42561,40231,N/A,N/A,40215,N/A,N/A,N/A,N/A,N/A,39561,N/A,N/A,9042,N/A,N/A
 Vanderburgh County,85303,76686,47,42.3,76684,85298,54.9,49.4,82193,57.7,74290,52.2,27193,26224,86.4,83.3
 Vermillion County,5734,5145,37,33.2,5145,5734,43,38.6,5592,46.3,5033,41.6,2371,2255,75.3,71.6
 Vigo County,43468,39532,40.6,36.9,39532,43467,47,42.7,42013,49.3,38403,45.1,13780,13302,77.1,74.4
