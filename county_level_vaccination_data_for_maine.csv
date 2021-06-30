@@ -1,6 +1,4 @@
-﻿County Level Vaccination Data for Maine
-Date generated: Wed Jun 30 2021 14:38:00 GMT-0400 (Eastern Daylight Time)
-County,People with at least 1 Dose - Resident,People Fully Vaccinated - Resident,Percent of Total Pop with at least 1 Dose - Resident,Percent of Total Pop Fully Vaccinated - Resident,People 12+ Fully Vaccinated - Resident,People 12+ with at least 1 Dose - Resident,Percent of 12+ Pop with at least 1 Dose - Resident,Percent of 12+ Pop Fully Vaccinated - Resident,People 18+ with at least 1 Dose - Resident,Percent of 18+ Pop with at least 1 Dose - Resident,People 18+ Fully Vaccinated - Resident,Percent of 18+ Pop Fully Vaccinated - Resident,People 65+ with at least 1 Dose - Resident,People 65+ Fully Vaccinated - Resident,Percent 65+ Pop at least 1 Dose - Resident,Percent of 65+ Pop Fully Vaccinated - Resident
+County,People with at least 1 Dose,People Fully Vaccinated,Percent of Total Pop with at least 1 Dose,Percent of Total Pop Fully Vaccinated,People 12+ Fully Vaccinated,People 12+ with at least 1 Dose,Percent of 12+ Pop with at least 1 Dose,Percent of 12+ Pop Fully Vaccinated,People 18+ with at least 1 Dose,Percent of 18+ Pop with at least 1 Dose,People 18+ Fully Vaccinated,Percent of 18+ Pop Fully Vaccinated,People 65+ with at least 1 Dose,People 65+ Fully Vaccinated,Percent 65+ Pop at least 1 Dose,Percent of 65+ Pop Fully Vaccinated
 Androscoggin County,61142,55508,56.5,51.3,55506,61130,65.9,59.9,58124,68.4,53065,62.5,17612,16411,89.6,83.4
 Aroostook County,36630,34507,54.6,51.5,34505,36625,61.9,58.3,35100,64,33193,60.6,13581,13320,81.2,79.7
 Cumberland County,215677,202828,73.1,68.8,202823,215655,82.9,77.9,202805,84.2,191511,79.5,52965,52225,94.3,93
@@ -14,7 +12,6 @@ Penobscot County,88534,82521,58.2,54.2,82518,88528,65.7,61.2,84370,67.6,78935,63
 Piscataquis County,8671,8013,51.7,47.7,8012,8670,57.6,53.2,8363,59.9,7746,55.4,3640,3480,79.2,75.8
 Sagadahoc County,23542,22048,65.7,61.5,22048,23538,74.6,69.9,22248,76.6,20945,72.1,7647,7520,93.7,92.2
 Somerset County,25008,23031,49.5,45.6,23030,25003,56,51.6,24127,58.8,22437,54.7,9122,8719,84.7,80.9
-Unknown,41157,31066,N/A,N/A,31064,41148,N/A,N/A,40155,N/A,30457,N/A,11727,8617,N/A,N/A
 Waldo County,23651,21893,59.6,55.1,21892,23650,67.4,62.4,22605,69.6,21037,64.7,8559,8218,92.4,88.7
 Washington County,18302,16956,58.3,54,16955,18301,66.2,61.4,17638,69.3,16456,64.6,6818,6593,87.5,84.6
 York County,139108,127953,67,61.6,127948,139101,75.9,69.8,132091,78,122319,72.2,40535,38562,92.3,87.8
