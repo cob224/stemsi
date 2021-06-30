@@ -1,6 +1,4 @@
-﻿County Level Vaccination Data for Maryland
-Date generated: Wed Jun 30 2021 15:12:58 GMT-0400 (Eastern Daylight Time)
-County,People with at least 1 Dose - Resident,People Fully Vaccinated - Resident,Percent of Total Pop with at least 1 Dose - Resident,Percent of Total Pop Fully Vaccinated - Resident,People 12+ Fully Vaccinated - Resident,People 12+ with at least 1 Dose - Resident,Percent of 12+ Pop with at least 1 Dose - Resident,Percent of 12+ Pop Fully Vaccinated - Resident,People 18+ with at least 1 Dose - Resident,Percent of 18+ Pop with at least 1 Dose - Resident,People 18+ Fully Vaccinated - Resident,Percent of 18+ Pop Fully Vaccinated - Resident,People 65+ with at least 1 Dose - Resident,People 65+ Fully Vaccinated - Resident,Percent 65+ Pop at least 1 Dose - Resident,Percent of 65+ Pop Fully Vaccinated - Resident
+County,People with at least 1 Dose,People Fully Vaccinated,Percent of Total Pop with at least 1 Dose,Percent of Total Pop Fully Vaccinated,People 12+ Fully Vaccinated,People 12+ with at least 1 Dose,Percent of 12+ Pop with at least 1 Dose,Percent of 12+ Pop Fully Vaccinated,People 18+ with at least 1 Dose,Percent of 18+ Pop with at least 1 Dose,People 18+ Fully Vaccinated,Percent of 18+ Pop Fully Vaccinated,People 65+ with at least 1 Dose,People 65+ Fully Vaccinated,Percent 65+ Pop at least 1 Dose,Percent of 65+ Pop Fully Vaccinated
 Allegany County,32072,29693,45.5,42.2,29691,32070,51.3,47.5,31198,53.5,29031,49.8,11748,11131,81.2,76.9
 Anne Arundel County,370853,338029,64,58.4,338021,370831,75.2,68.6,348137,77.3,318979,70.8,82531,77741,94.9,89.4
 Baltimore City,306128,272352,51.6,45.9,272344,306105,60,53.4,295597,62.4,264328,55.8,68797,63579,79.9,73.8
@@ -22,7 +20,6 @@ Queen Anne's County,28277,26097,56.1,51.8,26097,28276,64.7,59.7,26986,68.1,25064
 Somerset County,10637,9277,41.5,36.2,9277,10637,46.9,40.9,10465,49.2,9164,43.1,3609,3387,81.4,76.4
 St. Mary's County,61520,56773,54.2,50,56772,61518,64.2,59.3,57865,67,53643,62.1,13778,12927,90.7,85.1
 Talbot County,23898,22108,64.3,59.5,22107,23897,72.9,67.4,22958,75.5,21380,70.3,9952,9480,90,85.7
-Unknown,56547,45957,N/A,N/A,45939,56481,N/A,N/A,54453,N/A,44588,N/A,8933,8195,N/A,N/A
 Washington County,71217,65143,47.1,43.1,65142,71213,54.9,50.2,68186,57.6,62696,53,22053,20859,83.4,78.9
 Wicomico County,47038,43020,45.4,41.5,43019,47035,53.1,48.6,45193,55.9,41520,51.3,14691,13939,86.7,82.3
 Worcester County,31894,28887,61,55.3,28884,31890,68.5,62.1,31034,71.5,28189,65,13051,12280,88.4,83.2
