@@ -1,0 +1,18 @@
+﻿County Level Vaccination Data for Massachusetts
+Date generated: Wed Jun 30 2021 15:53:32 GMT-0400 (Eastern Daylight Time)
+County,People with at least 1 Dose - Resident,People Fully Vaccinated - Resident,Percent of Total Pop with at least 1 Dose - Resident,Percent of Total Pop Fully Vaccinated - Resident,People 12+ Fully Vaccinated - Resident,People 12+ with at least 1 Dose - Resident,Percent of 12+ Pop with at least 1 Dose - Resident,Percent of 12+ Pop Fully Vaccinated - Resident,People 18+ with at least 1 Dose - Resident,Percent of 18+ Pop with at least 1 Dose - Resident,People 18+ Fully Vaccinated - Resident,Percent of 18+ Pop Fully Vaccinated - Resident,People 65+ with at least 1 Dose - Resident,People 65+ Fully Vaccinated - Resident,Percent 65+ Pop at least 1 Dose - Resident,Percent of 65+ Pop Fully Vaccinated - Resident
+Barnstable County,11590,9228,5.4,4.3,9226,11587,6,4.8,11514,6.3,9193,5.1,4870,4002,7.3,6
+Berkshire County,63419,55670,50.8,44.6,55535,63232,56.4,49.6,59037,56.7,52131,50.1,20390,18103,68.1,60.5
+Bristol County,309077,275199,54.7,48.7,274726,308312,62.8,56,291318,64.8,261599,58.2,79771,72923,81.6,74.6
+Dukes County,615,527,3.5,3,527,615,4,3.4,592,4.2,517,3.6,179,158,4.1,3.6
+Essex County,500090,449814,63.4,57,448682,498322,73.2,65.9,465016,74.7,422143,67.8,123828,113830,89.4,82.2
+Franklin County,43360,37939,61.8,54.1,37863,43241,69.1,60.5,40725,70,35889,61.7,13526,12176,83.4,75.1
+Hampden County,257760,225451,55.3,48.3,225034,257083,63.9,55.9,243209,66.3,214455,58.5,69262,62823,85.7,77.7
+Hampshire County,96307,84535,59.9,52.6,84279,95955,65.5,57.5,90120,65.5,79538,57.8,26431,24089,91.8,83.6
+Middlesex County,1136108,1025801,70.5,63.6,1022405,1131138,80.5,72.8,1053481,81.3,958490,74,228846,211061,90.7,83.7
+Nantucket County,153,115,1.3,1,115,153,1.6,1.2,149,1.7,112,1.2,52,42,3.1,2.5
+Norfolk County,488724,441061,69.1,62.4,439664,486590,79.4,71.7,451525,80.6,411548,73.5,107737,98922,88.4,81.2
+Plymouth County,315432,279589,60.5,53.6,278965,314483,69.6,61.7,294741,71.8,263406,64.1,84689,76607,87.4,79
+Suffolk County,514815,454081,64,56.5,453330,513605,72,63.5,492880,73.3,437571,65.1,82071,74595,82.7,75.2
+Unknown,604048,455994,N/A,N/A,455450,603151,N/A,N/A,584980,N/A,442464,N/A,165388,130865,N/A,N/A
+Worcester County,503445,441610,60.6,53.2,440428,501622,69.7,61.2,467825,71.2,414131,63,117356,105660,87.6,78.8
