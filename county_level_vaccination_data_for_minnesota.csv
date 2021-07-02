@@ -1,6 +1,4 @@
-﻿County Level Vaccination Data for Minnesota
-Date generated: Fri Jul 02 2021 12:55:04 GMT-0400 (Eastern Daylight Time)
-County,People with at least 1 Dose - Resident,People Fully Vaccinated - Resident,Percent of Total Pop with at least 1 Dose - Resident,Percent of Total Pop Fully Vaccinated - Resident,People 12+ Fully Vaccinated - Resident,People 12+ with at least 1 Dose - Resident,Percent of 12+ Pop with at least 1 Dose - Resident,Percent of 12+ Pop Fully Vaccinated - Resident,People 18+ with at least 1 Dose - Resident,Percent of 18+ Pop with at least 1 Dose - Resident,People 18+ Fully Vaccinated - Resident,Percent of 18+ Pop Fully Vaccinated - Resident,People 65+ with at least 1 Dose - Resident,People 65+ Fully Vaccinated - Resident,Percent 65+ Pop at least 1 Dose - Resident,Percent of 65+ Pop Fully Vaccinated - Resident
+County,People with at least 1 Dose,People Fully Vaccinated,Percent of Total Pop with at least 1 Dose,Percent of Total Pop Fully Vaccinated,People 12+ Fully Vaccinated,People 12+ with at least 1 Dose,Percent of 12+ Pop with at least 1 Dose,Percent of 12+ Pop Fully Vaccinated,People 18+ with at least 1 Dose,Percent of 18+ Pop with at least 1 Dose,People 18+ Fully Vaccinated,Percent of 18+ Pop Fully Vaccinated,People 65+ with at least 1 Dose,People 65+ Fully Vaccinated,Percent 65+ Pop at least 1 Dose,Percent of 65+ Pop Fully Vaccinated
 Aitkin County,8181,7607,51.5,47.9,7597,8167,57.2,53.2,7930,59.8,7420,55.9,4103,3951,76.4,73.5
 Anoka County,167239,152219,46.9,42.6,151864,166698,55.2,50.3,157239,57.8,143811,52.8,40556,38343,78.3,74
 Becker County,15598,14312,45.3,41.6,14296,15573,53.6,49.2,15069,57.7,13866,53.1,6290,5886,86.5,80.9
@@ -79,7 +77,6 @@ Stevens County,4692,4274,47.9,43.6,4263,4676,55.8,50.8,4500,58.4,4108,53.3,1475,
 Swift County,4529,4086,48.9,44.1,4083,4525,57.7,52.1,4364,61.4,3954,55.6,1792,1702,86.2,81.9
 Todd County,8485,7734,34.4,31.4,7729,8477,41,37.4,8253,44,7568,40.3,3708,3523,68,64.6
 Traverse County,1676,1549,51.4,47.5,1545,1672,59.6,55.1,1634,63.4,1510,58.5,729,684,88,82.6
-Unknown,165103,145027,N/A,N/A,144695,164406,N/A,N/A,153785,N/A,137327,N/A,33364,31715,N/A,N/A
 Wabasha County,13661,12160,63.2,56.2,12141,13629,73.4,65.4,13014,76.8,11594,68.4,5323,4627,99.9,94.8
 Wadena County,5843,5158,42.7,37.7,5155,5836,51.4,45.4,5699,56.2,5048,49.8,2804,2366,96,81
 Waseca County,8771,8214,47.1,44.1,8193,N/A,N/A,51.6,N/A,N/A,7874,55.1,N/A,2855,N/A,82.5
