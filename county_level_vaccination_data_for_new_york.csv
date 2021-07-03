@@ -1,6 +1,4 @@
-﻿County Level Vaccination Data for New York
-Date generated: Sat Jul 03 2021 13:10:30 GMT-0400 (Eastern Daylight Time)
-County,People with at least 1 Dose - Resident,People Fully Vaccinated - Resident,Percent of Total Pop with at least 1 Dose - Resident,Percent of Total Pop Fully Vaccinated - Resident,People 12+ Fully Vaccinated - Resident,People 12+ with at least 1 Dose - Resident,Percent of 12+ Pop with at least 1 Dose - Resident,Percent of 12+ Pop Fully Vaccinated - Resident,People 18+ with at least 1 Dose - Resident,Percent of 18+ Pop with at least 1 Dose - Resident,People 18+ Fully Vaccinated - Resident,Percent of 18+ Pop Fully Vaccinated - Resident,People 65+ with at least 1 Dose - Resident,People 65+ Fully Vaccinated - Resident,Percent 65+ Pop at least 1 Dose - Resident,Percent of 65+ Pop Fully Vaccinated - Resident
+County,People with at least 1 Dose,People Fully Vaccinated,Percent of Total Pop with at least 1 Dose,Percent of Total Pop Fully Vaccinated,People 12+ Fully Vaccinated,People 12+ with at least 1 Dose,Percent of 12+ Pop with at least 1 Dose,Percent of 12+ Pop Fully Vaccinated,People 18+ with at least 1 Dose,Percent of 18+ Pop with at least 1 Dose,People 18+ Fully Vaccinated,Percent of 18+ Pop Fully Vaccinated,People 65+ with at least 1 Dose,People 65+ Fully Vaccinated,Percent 65+ Pop at least 1 Dose,Percent of 65+ Pop Fully Vaccinated
 Albany County,192587,181160,63,59.3,181154,192575,71.7,67.4,182169,72.9,172088,68.9,48101,46041,90.3,86.4
 Allegany County,16058,15066,34.8,32.7,15065,16056,40,37.5,15194,41.3,14321,38.9,5644,5433,62.3,60
 Bronx County,678114,589555,47.8,41.6,589499,678029,57.4,49.9,649354,60.7,569553,53.3,146523,132979,77.6,70.4
@@ -57,7 +55,6 @@ Sullivan County,36181,33265,48,44.1,33261,36175,55.6,51.1,34784,58.4,32088,53.9,
 Tioga County,24622,22664,51.1,47,22664,24621,58.6,54,23451,61.3,21653,56.6,8047,7537,79.7,74.7
 Tompkins County,71425,66929,69.9,65.5,66925,71418,77.3,72.4,67911,77.9,63795,73.2,14291,13606,92.6,88.2
 Ulster County,107211,98704,60.4,55.6,98700,107202,67.9,62.5,102086,69.6,94594,64.5,30477,28563,84.2,78.9
-Unknown,350219,269929,N/A,N/A,269875,350042,N/A,N/A,346084,N/A,267520,N/A,77456,62805,N/A,N/A
 Warren County,42336,40042,66.2,62.6,40042,42334,74.8,70.7,40381,77.1,38332,73.2,13470,12883,91.8,87.8
 Washington County,33661,31465,55,51.4,31465,33661,62.4,58.3,32237,64.7,30277,60.8,11247,10620,91.5,86.4
 Wayne County,46468,43745,51.7,48.6,43745,46468,60,56.5,44223,62.4,41920,59.2,14403,13898,82.1,79.2
