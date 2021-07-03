@@ -1,6 +1,4 @@
-﻿County Level Vaccination Data for North Carolina
-Date generated: Sat Jul 03 2021 13:50:03 GMT-0400 (Eastern Daylight Time)
-County,People with at least 1 Dose - Resident,People Fully Vaccinated - Resident,Percent of Total Pop with at least 1 Dose - Resident,Percent of Total Pop Fully Vaccinated - Resident,People 12+ Fully Vaccinated - Resident,People 12+ with at least 1 Dose - Resident,Percent of 12+ Pop with at least 1 Dose - Resident,Percent of 12+ Pop Fully Vaccinated - Resident,People 18+ with at least 1 Dose - Resident,Percent of 18+ Pop with at least 1 Dose - Resident,People 18+ Fully Vaccinated - Resident,Percent of 18+ Pop Fully Vaccinated - Resident,People 65+ with at least 1 Dose - Resident,People 65+ Fully Vaccinated - Resident,Percent 65+ Pop at least 1 Dose - Resident,Percent of 65+ Pop Fully Vaccinated - Resident
+County,People with at least 1 Dose,People Fully Vaccinated,Percent of Total Pop with at least 1 Dose,Percent of Total Pop Fully Vaccinated,People 12+ Fully Vaccinated,People 12+ with at least 1 Dose,Percent of 12+ Pop with at least 1 Dose,Percent of 12+ Pop Fully Vaccinated,People 18+ with at least 1 Dose,Percent of 18+ Pop with at least 1 Dose,People 18+ Fully Vaccinated,Percent of 18+ Pop Fully Vaccinated,People 65+ with at least 1 Dose,People 65+ Fully Vaccinated,Percent 65+ Pop at least 1 Dose,Percent of 65+ Pop Fully Vaccinated
 Alamance County,74524,65541,44,38.7,65482,74409,51.3,45.1,71312,54,63153,47.8,22183,20981,76.4,72.3
 Alexander County,13159,11889,35.1,31.7,11886,13152,40.1,36.3,12859,42.8,11670,38.8,5155,4907,67.2,64
 Alleghany County,5469,4599,49.1,41.3,4597,5465,55.1,46.4,5408,58.5,4569,49.4,2483,2152,79.7,69.1
@@ -91,7 +89,6 @@ Swain County,6511,5559,45.6,39,5557,6508,53.6,45.8,6207,55.7,5360,48.1,2346,2127
 Transylvania County,15520,14110,45.1,41,14099,15495,50,45.5,15106,51.9,13824,47.5,7026,6632,65,61.4
 Tyrrell County,1398,1254,34.8,31.2,1254,1397,39.5,35.5,1373,41.8,1244,37.8,552,518,68.1,64
 Union County,94532,83177,39.4,34.7,83104,94383,46.7,41.1,88721,50.2,78920,44.7,23575,22107,75.5,70.8
-Unknown,174949,160146,N/A,N/A,160051,N/A,N/A,N/A,N/A,N/A,157654,N/A,N/A,43470,N/A,N/A
 Vance County,16355,13362,36.7,30,13358,16326,43.3,35.5,15776,46.3,13048,38.3,6371,5449,75.1,64.2
 Wake County,639455,548412,57.5,49.3,547213,637532,67.7,58.1,593776,69.9,514686,60.6,123066,113196,91.9,84.6
 Warren County,7009,5082,35.5,25.8,5079,7005,40.1,29.1,6840,42.2,4967,30.7,3214,1930,62.1,37.3
