@@ -1,0 +1,21 @@
+﻿County Level Vaccination Data for Nevada
+Date generated: Sat Jul 03 2021 12:45:41 GMT-0400 (Eastern Daylight Time)
+County,People with at least 1 Dose - Resident,People Fully Vaccinated - Resident,Percent of Total Pop with at least 1 Dose - Resident,Percent of Total Pop Fully Vaccinated - Resident,People 12+ Fully Vaccinated - Resident,People 12+ with at least 1 Dose - Resident,Percent of 12+ Pop with at least 1 Dose - Resident,Percent of 12+ Pop Fully Vaccinated - Resident,People 18+ with at least 1 Dose - Resident,Percent of 18+ Pop with at least 1 Dose - Resident,People 18+ Fully Vaccinated - Resident,Percent of 18+ Pop Fully Vaccinated - Resident,People 65+ with at least 1 Dose - Resident,People 65+ Fully Vaccinated - Resident,Percent 65+ Pop at least 1 Dose - Resident,Percent of 65+ Pop Fully Vaccinated - Resident
+Carson City,29788,27211,53.3,48.7,27210,29788,61.6,56.2,28801,64.6,26471,59.4,10675,9985,92.2,86.3
+Churchill County,9481,8159,38.1,32.8,8159,9480,45.1,38.8,9189,47.8,7973,41.5,3638,3293,76.4,69.2
+Clark County,1049635,873836,46.3,38.6,873829,1049610,54.6,45.5,1005512,57.6,846639,48.5,270025,236120,78.8,68.9
+Douglas County,22407,20580,45.8,42.1,20579,22406,50.7,46.6,21811,53.1,20114,49,10285,9721,70.9,67
+Elko County,16941,14406,32.1,27.3,14406,16940,39.2,33.4,16162,42.1,14006,36.5,4589,4106,73.8,66
+Esmeralda County,326,275,37.3,31.5,275,326,41.2,34.8,319,42.5,273,36.4,133,115,42.6,36.9
+Eureka County,449,397,22.1,19.6,397,449,26.1,23.1,444,29,396,25.8,159,147,47.9,44.3
+Humboldt County,5670,5095,33.7,30.3,5094,5669,41.1,37,5522,44.9,4993,40.6,1792,1630,73.8,67.2
+Lander County,1652,1513,29.9,27.3,1513,1652,36.4,33.3,1625,39.8,1495,36.6,503,461,56.8,52.1
+Lincoln County,1549,1458,29.9,28.1,1458,1549,34.1,32.1,1502,36.1,1422,34.2,700,681,53.4,51.9
+Lyon County,18371,16353,31.9,28.4,16353,18371,37.1,33.1,17934,39.7,16056,35.5,7045,6488,57.8,53.2
+Mineral County,1993,1814,44.2,40.3,1813,1992,51.2,46.6,1951,53.9,1787,49.4,857,799,74.8,69.8
+Nye County,16860,15423,36.2,33.2,15423,16860,40.6,37.1,16663,42.9,15332,39.5,9104,8593,64.6,61
+Pershing County,2175,1893,32.3,28.1,1893,2175,36.4,31.7,2143,38,1883,33.4,535,499,48.5,45.2
+Storey County,703,642,17.1,15.6,642,703,18.2,16.7,689,19,628,17.3,306,290,23.1,21.9
+Unknown,87307,65727,N/A,N/A,65709,87265,N/A,N/A,84737,N/A,64553,N/A,15042,13286,N/A,N/A
+Washoe County,255745,230203,54.2,48.8,230203,255741,63.2,56.9,244318,65.9,221634,59.7,68969,64472,86.9,81.2
+White Pine County,4060,3740,42.4,39,3739,4059,48.9,45,3964,51.9,3680,48.2,1307,1225,74.5,69.8
