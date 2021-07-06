@@ -1,6 +1,4 @@
-﻿County Level Vaccination Data for Oklahoma
-Date generated: Tue Jul 06 2021 14:02:07 GMT-0400 (Eastern Daylight Time)
-County,People with at least 1 Dose - Resident,People Fully Vaccinated - Resident,Percent of Total Pop with at least 1 Dose - Resident,Percent of Total Pop Fully Vaccinated - Resident,People 12+ Fully Vaccinated - Resident,People 12+ with at least 1 Dose - Resident,Percent of 12+ Pop with at least 1 Dose - Resident,Percent of 12+ Pop Fully Vaccinated - Resident,People 18+ with at least 1 Dose - Resident,Percent of 18+ Pop with at least 1 Dose - Resident,People 18+ Fully Vaccinated - Resident,Percent of 18+ Pop Fully Vaccinated - Resident,People 65+ with at least 1 Dose - Resident,People 65+ Fully Vaccinated - Resident,Percent 65+ Pop at least 1 Dose - Resident,Percent of 65+ Pop Fully Vaccinated - Resident
+County,People with at least 1 Dose,People Fully Vaccinated,Percent of Total Pop with at least 1 Dose,Percent of Total Pop Fully Vaccinated,People 12+ Fully Vaccinated,People 12+ with at least 1 Dose,Percent of 12+ Pop with at least 1 Dose,Percent of 12+ Pop Fully Vaccinated,People 18+ with at least 1 Dose,Percent of 18+ Pop with at least 1 Dose,People 18+ Fully Vaccinated,Percent of 18+ Pop Fully Vaccinated,People 65+ with at least 1 Dose,People 65+ Fully Vaccinated,Percent 65+ Pop at least 1 Dose,Percent of 65+ Pop Fully Vaccinated
 Adair County,6353,4740,28.6,21.4,4740,6353,34.9,26,6181,38.2,4637,28.6,2182,1822,62.1,51.8
 Alfalfa County,2181,2034,38.2,35.7,2034,2180,44.1,41.1,2172,47.2,2027,44.1,824,758,71.3,65.6
 Atoka County,3747,3435,27.2,25,3435,3747,32,29.4,3719,34.9,3426,32.1,1554,1449,56.4,52.6
@@ -73,7 +71,6 @@ Stephens County,17007,14457,39.4,33.5,14457,17005,46.2,39.3,16675,50.2,14238,42.
 Texas County,6773,5793,33.9,29,5793,6773,42.1,36,6639,46.3,5719,39.9,1745,1603,73.9,67.9
 Tillman County,2746,2363,37.9,32.6,2363,2746,44.5,38.3,2693,48.3,2328,41.8,1140,1003,77.7,68.4
 Tulsa County,312115,272782,47.9,41.9,272779,312098,57.6,50.3,298965,61.2,263519,54,86667,79476,89.8,82.4
-Unknown,125455,99426,N/A,N/A,99407,125414,N/A,N/A,123240,N/A,97996,N/A,32488,25401,N/A,N/A
 Wagoner County,29684,26014,36.5,32,26014,29682,43.2,37.9,28715,46.5,25335,41,9759,8869,71.5,65
 Washington County,18089,14716,35.1,28.6,14716,18088,41.6,33.9,17526,44.6,14368,36.6,7246,5878,71.1,57.7
 Washita County,3574,2962,32.7,27.1,2960,3572,38.9,32.2,3502,42.5,2912,35.3,1481,1233,72.7,60.5
