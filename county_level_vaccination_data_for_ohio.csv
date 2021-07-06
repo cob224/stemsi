@@ -1,6 +1,4 @@
-﻿County Level Vaccination Data for Ohio
-Date generated: Tue Jul 06 2021 11:03:05 GMT-0400 (Eastern Daylight Time)
-County,People with at least 1 Dose - Resident,People Fully Vaccinated - Resident,Percent of Total Pop with at least 1 Dose - Resident,Percent of Total Pop Fully Vaccinated - Resident,People 12+ Fully Vaccinated - Resident,People 12+ with at least 1 Dose - Resident,Percent of 12+ Pop with at least 1 Dose - Resident,Percent of 12+ Pop Fully Vaccinated - Resident,People 18+ with at least 1 Dose - Resident,Percent of 18+ Pop with at least 1 Dose - Resident,People 18+ Fully Vaccinated - Resident,Percent of 18+ Pop Fully Vaccinated - Resident,People 65+ with at least 1 Dose - Resident,People 65+ Fully Vaccinated - Resident,Percent 65+ Pop at least 1 Dose - Resident,Percent of 65+ Pop Fully Vaccinated - Resident
+County,People with at least 1 Dose,People Fully Vaccinated,Percent of Total Pop with at least 1 Dose,Percent of Total Pop Fully Vaccinated,People 12+ Fully Vaccinated,People 12+ with at least 1 Dose,Percent of 12+ Pop with at least 1 Dose,Percent of 12+ Pop Fully Vaccinated,People 18+ with at least 1 Dose,Percent of 18+ Pop with at least 1 Dose,People 18+ Fully Vaccinated,Percent of 18+ Pop Fully Vaccinated,People 65+ with at least 1 Dose,People 65+ Fully Vaccinated,Percent 65+ Pop at least 1 Dose,Percent of 65+ Pop Fully Vaccinated
 Adams County,7239,6808,26.1,24.6,6806,7237,30.8,29,7055,33.4,6654,31.5,3149,2985,61.6,58.4
 Allen County,34329,32916,33.5,32.2,32916,34329,39.4,37.8,33529,42.5,32294,41,13878,13416,75,72.5
 Ashland County,16863,16759,31.5,31.3,16759,N/A,N/A,36.6,N/A,N/A,16424,39.5,N/A,7054,N/A,68.9
@@ -81,7 +79,6 @@ Summit County,267928,261322,49.5,48.3,261321,267922,57.3,55.9,254875,59.4,250384
 Trumbull County,86875,82010,43.9,41.4,82010,86875,50.4,47.6,84100,53.3,79698,50.5,33471,31774,76.6,72.7
 Tuscarawas County,31560,30825,34.3,33.5,30825,31560,40.4,39.4,30753,43.3,30201,42.5,13069,13018,71.2,70.9
 Union County,28297,27803,48,47.1,27803,28296,57.1,56.1,26599,59.7,26296,59,6668,6530,89.1,87.3
-Unknown,347048,123352,N/A,N/A,123338,346979,N/A,N/A,337470,N/A,122587,N/A,81598,39308,N/A,N/A
 Van Wert County,N/A,6236,N/A,22.1,6236,N/A,N/A,26,N/A,N/A,6069,27.9,N/A,1776,N/A,32.3
 Vinton County,N/A,3739,N/A,28.6,3739,N/A,N/A,33.1,N/A,N/A,3653,35.7,N/A,1438,N/A,59.2
 Warren County,119057,116792,50.7,49.8,116792,119055,59.8,58.6,110884,62.3,109781,61.7,29712,29301,85,83.8
