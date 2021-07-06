@@ -1,9 +1,6 @@
-﻿County Level Vaccination Data for Rhode Island
-Date generated: Tue Jul 06 2021 14:46:16 GMT-0400 (Eastern Daylight Time)
-County,People with at least 1 Dose - Resident,People Fully Vaccinated - Resident,Percent of Total Pop with at least 1 Dose - Resident,Percent of Total Pop Fully Vaccinated - Resident,People 12+ Fully Vaccinated - Resident,People 12+ with at least 1 Dose - Resident,Percent of 12+ Pop with at least 1 Dose - Resident,Percent of 12+ Pop Fully Vaccinated - Resident,People 18+ with at least 1 Dose - Resident,Percent of 18+ Pop with at least 1 Dose - Resident,People 18+ Fully Vaccinated - Resident,Percent of 18+ Pop Fully Vaccinated - Resident,People 65+ with at least 1 Dose - Resident,People 65+ Fully Vaccinated - Resident,Percent 65+ Pop at least 1 Dose - Resident,Percent of 65+ Pop Fully Vaccinated - Resident
+County,People with at least 1 Dose,People Fully Vaccinated,Percent of Total Pop with at least 1 Dose,Percent of Total Pop Fully Vaccinated,People 12+ Fully Vaccinated,People 12+ with at least 1 Dose,Percent of 12+ Pop with at least 1 Dose,Percent of 12+ Pop Fully Vaccinated,People 18+ with at least 1 Dose,Percent of 18+ Pop with at least 1 Dose,People 18+ Fully Vaccinated,Percent of 18+ Pop Fully Vaccinated,People 65+ with at least 1 Dose,People 65+ Fully Vaccinated,Percent 65+ Pop at least 1 Dose,Percent of 65+ Pop Fully Vaccinated
 Bristol County,31655,30442,65.3,62.8,30439,N/A,N/A,70.7,N/A,N/A,28305,71.8,N/A,9313,N/A,95.1
 Kent County,106270,100592,64.7,61.2,100589,N/A,N/A,69.6,N/A,N/A,95823,71.7,N/A,29557,N/A,92.9
 Newport County,53326,51302,65,62.5,51301,N/A,N/A,70,N/A,N/A,48729,71.2,N/A,14874,N/A,79.6
 Providence County,362776,332918,56.8,52.1,332912,362737,65.6,60.2,343157,67.5,317438,62.5,86621,85449,86.8,85.6
-Unknown,48034,29031,N/A,N/A,29015,47992,N/A,N/A,47162,N/A,28527,N/A,15520,4073,N/A,N/A
 Washington County,81272,78420,64.7,62.4,78419,N/A,N/A,69.2,N/A,N/A,74544,70.8,N/A,25463,N/A,94.5
