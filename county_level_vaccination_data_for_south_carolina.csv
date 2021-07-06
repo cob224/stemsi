@@ -1,6 +1,4 @@
-﻿County Level Vaccination Data for South Carolina
-Date generated: Tue Jul 06 2021 15:26:03 GMT-0400 (Eastern Daylight Time)
-County,People with at least 1 Dose - Resident,People Fully Vaccinated - Resident,Percent of Total Pop with at least 1 Dose - Resident,Percent of Total Pop Fully Vaccinated - Resident,People 12+ Fully Vaccinated - Resident,People 12+ with at least 1 Dose - Resident,Percent of 12+ Pop with at least 1 Dose - Resident,Percent of 12+ Pop Fully Vaccinated - Resident,People 18+ with at least 1 Dose - Resident,Percent of 18+ Pop with at least 1 Dose - Resident,People 18+ Fully Vaccinated - Resident,Percent of 18+ Pop Fully Vaccinated - Resident,People 65+ with at least 1 Dose - Resident,People 65+ Fully Vaccinated - Resident,Percent 65+ Pop at least 1 Dose - Resident,Percent of 65+ Pop Fully Vaccinated - Resident
+County,People with at least 1 Dose,People Fully Vaccinated,Percent of Total Pop with at least 1 Dose,Percent of Total Pop Fully Vaccinated,People 12+ Fully Vaccinated,People 12+ with at least 1 Dose,Percent of 12+ Pop with at least 1 Dose,Percent of 12+ Pop Fully Vaccinated,People 18+ with at least 1 Dose,Percent of 18+ Pop with at least 1 Dose,People 18+ Fully Vaccinated,Percent of 18+ Pop Fully Vaccinated,People 65+ with at least 1 Dose,People 65+ Fully Vaccinated,Percent 65+ Pop at least 1 Dose,Percent of 65+ Pop Fully Vaccinated
 Abbeville County,7955,7262,32.4,29.6,7261,7950,37,33.8,7793,39.6,7156,36.4,3460,3305,63.1,60.3
 Aiken County,62137,54358,36.4,31.8,54304,62035,42.1,36.9,60429,45,53154,39.6,23932,21695,70.4,63.8
 Allendale County,3975,3475,45.8,40,3472,3969,52.1,45.5,3918,55.7,3444,49,1363,1248,75,68.6
@@ -45,6 +43,5 @@ Saluda County,5078,4376,24.8,21.4,4372,5070,28.9,24.9,4976,30.9,4311,26.8,1696,1
 Spartanburg County,106051,94435,33.2,29.5,94309,105818,39,34.8,102593,41.7,91878,37.4,37476,34619,71.4,66
 Sumter County,41472,32892,38.9,30.8,32871,41423,46.2,36.7,40598,49.9,32461,39.9,14864,12389,82.6,68.9
 Union County,8737,7652,32,28,7646,8725,37,32.4,8623,40.1,7576,35.2,3966,3576,70.4,63.5
-Unknown,145989,128714,N/A,N/A,128609,145739,N/A,N/A,142932,N/A,126712,N/A,52231,43547,N/A,N/A
 Williamsburg County,13150,11687,43.3,38.5,11685,13145,49.7,44.1,12901,53.4,11526,47.7,5014,4624,75.9,70
 York County,105644,87977,37.6,31.3,87779,105301,44.4,37,99799,46.8,83756,39.2,29868,23144,72.1,55.9
