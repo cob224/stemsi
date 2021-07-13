@@ -1,0 +1,37 @@
+County,Case rate,Death rate,Percent Black or African American,Percent of 18+ Pop Fully Vaccinated,Mean Household Income,65 and over,Age
+Baker,6345,93,0.9,67,63855,25.9,High
+Benton,3513,24,1.1,67.6,84074,15.5,Low
+Clackamas,4532,57,0.9,59.1,106216,17.6,High
+Clatsop,2635,22,0.8,55.3,69890,21.4,High
+Columbia,3673,55,0.5,49.8,80855,18.3,High
+Coos,3360,57,0.5,48,62178,25.5,High
+Crook,5294,94,0.5,41.9,64440,24.8,High
+Curry,3141,48,0.4,46.2,62649,33.7,High
+Deschutes,5072,41,0.6,59.9,86719,19.6,High
+Douglas,3510,75,0.4,44.6,63042,25.2,High
+Gilliam,4236,52,0.0,36.8,57569,25.3,High
+Grant,7654,97,0.1,39.4,58025,29.2,High
+Harney,5857,122,0.5,37.3,59279,23.9,High
+Hood River,5205,141,0.6,75.4,89693,15.6,Low
+Jackson,5227,66,0.7,48.2,72849,21.5,High
+Jefferson,9616,158,0.8,52.3,67220,19.3,High
+Josephine,4134,82,0.5,41.5,60155,25.7,High
+Klamath,7002,114,0.7,42.5,61268,20.7,High
+Lake,5947,102,0.3,33.4,54245,24.6,High
+Lane,3644,43,1.1,58.7,70956,18.8,High
+Lincoln,2870,42,0.6,62.2,61968,27.9,High
+Linn,4333,62,0.5,47,70148,18.3,High
+Malheur,11841,206,1.1,36.6,56286,16.4,Low
+Marion,6740,93,1.2,52.4,75666,15.3,Low
+Morrow,9954,138,0.3,44.5,67972,15.6,Low
+Multomah,4970,78,5.5,69,93639,13.0,Low
+Polk,4652,65,0.8,54.7,78277,17.5,High
+Sherman,3933,56,0.2,48.2,67208,26.1,High
+Tillamook,2441,15,0.4,56.6,64604,24.9,High
+Umatilla,11044,112,1.0,43.4,69219,15.3,Low
+Union,5593,89,0.8,39.9,67736,20.1,High
+Wallowa,2691,69,0.2,N/A,66631,28.2,High
+Wasco,5416,112,0.3,52.3,68193,20.2,High
+Washington,4457,42,2.0,56.5,104153,13.0,Low
+Wheeler,2628,75,0.0,65.5,48248,35.8,High
+Yamhill,4469,74,0.8,49,85495,16.8,High

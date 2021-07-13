@@ -1,0 +1,41 @@
+County,Case rate,Death rate,Percent Black or African American,Mean Household Income,Percent of 18+ Pop Fully Vaccinated,65 and over,Age
+Adams,11210,120,1.0,65032,46.3,10.9,Low
+Asotin,6629,128,0.5,70614,34,22.8,High
+Benton,8649,112,1.6,87525,48.1,14.5,Low
+Chelan,9201,92,0.6,79143,60.6,18.6,High
+Clallam,1823,17,1.1,67839,60,28.8,High
+Clark,5286,58,1.8,95792,55.3,15.0,Low
+Columbia,3237,151,0.9,81135,37.8,28.3,High
+Cowlitz,5942,81,0.8,71700,51.4,18.8,High
+Douglas,8681,53,0.5,82782,52.3,17.2,High
+Ferry,5205,105,0.1,60967,46.4,25.4,High
+Franklin,13413,122,2.2,79145,39.7,9.0,Low
+Garfield,5843,225,0.0,60910,28,24.7,High
+Grant,10969,127,0.8,71451,46.1,13.5,Low
+Grays Harbor,6079,100,1.2,66880,49.3,21.0,High
+Island,2180,34,3.1,86613,54.6,24.0,High
+Jefferson,1369,12,0.6,76400,70.1,35.3,High
+King,4961,72,6.5,128360,72.3,13.0,Low
+Kitsap,3217,43,2.7,93122,54.7,17.4,High
+Kittitas,6888,71,1.0,70805,47.7,15.7,Low
+Klickitat,3857,45,0.7,72216,43.7,23.6,High
+Lewis,6520,92,0.5,67876,41.7,20.7,High
+Lincoln,6134,101,0.8,67879,43.5,25.5,High
+Mason,4372,51,1.3,72026,50.3,22.5,High
+Okanogan,6503,99,0.4,59547,60.4,21.1,High
+Pacific,4446,62,0.4,58738,48.5,30.3,High
+Pen Oreille,6004,66,0.4,64996,32.3,25.7,High
+Pierce,6258,70,6.8,90659,52,13.5,Low
+San Juan,1058,0,0.9,94382,75.2,32.9,High
+Skagit,4652,59,0.9,84676,58.4,20.3,High
+Skamania,3178,8,0.5,77041,35,19.9,High
+Snohomish,4853,72,3.1,105008,61.8,13.1,Low
+Spokane,9035,129,1.7,76487,51,15.8,Low
+Stevens,5186,61,0.4,66675,32.2,22.5,High
+Thurston,3748,38,3.2,87696,55.8,16.8,High
+Wahkiakum,3431,22,1.3,71637,N/A,33.0,High
+Walla Walla,8938,112,1.8,76351,44.7,17.6,High
+Whatcom,4295,45,1.0,80590,54.9,16.9,High
+Whitman,8790,100,2.2,60706,67.4,10.2,Low
+Yakima,12608,179,1.2,69036,39.2,13.5,Low
+,,,12.7,88607,51.8,15.6,Low
